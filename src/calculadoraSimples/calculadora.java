@@ -2,7 +2,7 @@ package calculadoraSimples;
 
 import java.util.Scanner;
 
-public class Hehe {
+public class calculadora {
     public static void main(String[] args){
         Huhu huhu = new Huhu();
         Scanner scanner = new Scanner(System.in);
